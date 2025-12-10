@@ -1,0 +1,4 @@
+# wrangler.toml
+name = "xincan-docker-io"  # 您的 Worker 名称，可以自定义
+compatibility_date = "2025-12-10"  # 兼容性日期，建议使用当前日期
+= "_worker.js"  # 🔑 关键：指定入口文件为 _worker.js
