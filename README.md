@@ -3,10 +3,10 @@
 
 ## 下载示例
 - 没有域名的,加上域名
-docker pull repository.alittlexincan.workers.dev/nginx:1.27.0
+- docker pull repository.alittlexincan.workers.dev/nginx:1.27.0
 - 有域名的, 如k8s.io、docker.io、gcr.io等替换成xincan-docker.pages.dev
-docker pull repository.alittlexincan.workers.dev/nginx:1.27.0
-docker pull repository.alittlexincan.workers.dev/kubeflow/training-operator:v1-9e52eb7
+- docker pull repository.alittlexincan.workers.dev/nginx:1.27.0
+- docker pull repository.alittlexincan.workers.dev/kubeflow/training-operator:v1-9e52eb7
 
 [**第三方 DockerHub 镜像服务列表**](https://github.com/cmliu/CF-Workers-docker.io?tab=readme-ov-file#%E7%AC%AC%E4%B8%89%E6%96%B9-dockerhub-%E9%95%9C%E5%83%8F%E6%9C%8D%E5%8A%A1)
 
